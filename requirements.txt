@@ -1,0 +1,5 @@
+pandas
+flask
+playwright
+bs4
+gunicorn
